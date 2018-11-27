@@ -1,6 +1,11 @@
 {
   "name": "material-timestamp-adapter",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/dauledk/material-timestamp-adapter"
+  },
+  "description": "Use firestore timestamp's directly in Angular Material's datepicker",
   "peerDependencies": {
     "@angular/common": "^7.1.0",
     "@angular/core": "^7.1.0",

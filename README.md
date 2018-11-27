@@ -7,7 +7,7 @@ By using this adapter, you can directly display dates from firestore in the mate
 
 Use like this: 
 
-`npm i `
+`npm i npm i material-timestamp-adapter`
 
 Then add the module to imports section of your `NgModule`.
 
