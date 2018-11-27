@@ -1,4 +1,15 @@
+
 # MaterialAdapter
+
+This is a firestore Timestamp adapter for Angular Materials date picker.
+
+By using this adapter, you can directly display dates from firestore in the material date picker.
+
+Use like this: 
+
+`npm i `
+
+Then add the module to imports section of your `NgModule`.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 

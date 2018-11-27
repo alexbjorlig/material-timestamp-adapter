@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "material-timestamp-adapter": [
+        "dist/material-timestamp-adapter"
+      ],
+      "material-timestamp-adapter/*": [
+        "dist/material-timestamp-adapter/*"
+      ]
+    }
   }
 }
