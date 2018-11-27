@@ -25,7 +25,8 @@ export class AppModule { }
 
 ## TODO
 
-Currently the library uses Luxon internally to create the adapter, and thus has Luxon as peer dependency. Would probably be better with pure JS date.
+1) Refactor luxon out. Currently the library uses Luxon internally to create the adapter, and thus has Luxon as peer dependency. Would probably be better with pure JS date.
+2) Create hosted demo page
 
 ## Run locally
 
