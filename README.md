@@ -1,5 +1,5 @@
 
-# MaterialAdapter
+# Material Timestamp Adapter
 
 This is a firestore Timestamp adapter for Angular Materials date picker.
 
